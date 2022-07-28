@@ -1,1 +1,1 @@
-Hello This file contains the string related code
+Hello This file contains the string related code..
